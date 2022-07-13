@@ -5,4 +5,4 @@ title: Some title
 ---
 ![alt](/assets/connectivity-partner.png)
 
-## **Some title h2**
+## **Some title h234**
