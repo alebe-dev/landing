@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: alebe-dev/landing
-  branch: main
+  branch: gh-pages
 media_folder: static/assets
 public_folder: /assets
 collections:
